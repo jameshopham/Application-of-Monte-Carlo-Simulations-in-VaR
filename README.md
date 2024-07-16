@@ -1,4 +1,4 @@
-# Mean Reversion Statistical Arbitrage
+# Application of Monte Carlo Simulations in VaR
 <div>
 <img src="./images/VaR Figure.png" width="50%"/>
 
@@ -6,7 +6,7 @@
 In this project, I provide a demonstration of quantitative model development
 for risk management by feature engineering time series S&P 500 time series data
 to transform it for improved stationarity and carrying out monte carlo simulations 
-for monitoring price movement.
+for monitoring price movement when observing our value at risk (VaR).
 
 ## Project Slides
 Here is a link to my presentation covering an overview of the project:
