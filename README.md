@@ -26,9 +26,9 @@ This project was built with the following technologies:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me:
+If you have any questions or suggestions, feel free to reach out to us:
 
-- Connect with me on LinkedIn:
+- Connect with us on LinkedIn:
 
 
 
